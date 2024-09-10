@@ -1,2 +1,7 @@
-
+# Ignore data.DAT
 data.DAT
+
+# Ignore macOS system files
+.DS_Store
+
+
